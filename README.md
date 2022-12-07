@@ -1,9 +1,9 @@
 # QRCodeRecorder
-QRCode Recorder App(React Native)
+QRCode Recorder App(React Native, JavaScript)
 
 ## Packages
 
-"react": "17.0.2"
-"react-native": "0.66.3"
-"react-native-camera": "^4.2.1"
-"react-native-qrcode-scanner": "^1.5.4
+🎉 "react": "17.0.2" <br/>
+🎉 "react-native": "0.66.3" <br/>
+🎉 "react-native-camera": "^4.2.1" <br/>
+🎉 "react-native-qrcode-scanner": "^1.5.4 <br/>
